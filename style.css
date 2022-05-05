@@ -1,0 +1,36 @@
+.fruits{
+    border: 2px solid blue;
+    text-align: center;
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+}
+.FRUITS{
+    border: 3px;
+    text-align: right;
+    background-color: #f5ecdc;
+    padding: 30px;
+    margin: 30px;
+    color: #0040ff;
+    font-family: "Samyak Devanagari";
+}
+.cars{
+    border: 3px;
+    text-align: center;
+    background-color: cadetblue;
+    padding: 40px;
+    margin: 25px;
+    color: white;
+
+}
+.Fruits{
+    border: 4px;
+    text-align: center;
+    background-color: coral;
+    padding: 30px;
+    margin: 45px;
+
+}
+{background-size: cover
+}
